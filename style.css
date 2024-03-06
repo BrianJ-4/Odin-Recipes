@@ -1,0 +1,29 @@
+body {
+    background-color: #191919;
+}
+
+h1 {
+    color: #18baba;
+    font-size: 60px;
+}
+
+.frontItems {
+    text-align: center;
+    background-color: #18baba2a;
+    padding: 10px;
+    margin: 20px 300px;
+    border-radius: 20px;
+}
+
+a {
+    color: #b85566;
+    font-size: 20px;
+}
+
+.links {
+    background-color: #18baba2a;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px 20px;
+}
+
